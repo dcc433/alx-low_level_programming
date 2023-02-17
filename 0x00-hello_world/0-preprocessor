@@ -1,2 +1,4 @@
 #!/bin/bash
 gcc -E $CFILE -o c
+  1-compiler 2-assembler 3-name
+
