@@ -2,7 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/** rt */
+/**
+ * main - Entry point
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 
