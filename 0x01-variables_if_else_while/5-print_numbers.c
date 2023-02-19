@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*hrt*/
+/* rt */
 
 int main(void)
 
