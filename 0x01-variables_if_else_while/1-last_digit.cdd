@@ -2,7 +2,11 @@
 #include <time.h>
 #include <stdlib.h>
 
-/* maiain - Prints a text according to number*/
+/**
+ * maiain - Prints a text according to number
+ * Return: Always (Success)
+ *
+ */
 
 int main(void)
 
