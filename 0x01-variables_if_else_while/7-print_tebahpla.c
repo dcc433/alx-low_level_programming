@@ -2,8 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 
-/**
- * rt
+                                                                                                     /**
+												      *  main - Pints the alpha
+												      *  Return: Always (Success)
+
  */
 
 int main(void)
