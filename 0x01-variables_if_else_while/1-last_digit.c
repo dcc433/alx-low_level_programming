@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * maiain - Prints if number is positive, zero or negative
+ * maiain - Prints a text according to number
  * Return: Always (Success)
  *
  */
