@@ -2,10 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 
-                                                                                                     /**
-												      *  main - Pints the alpha
-												      *  Return: Always (Success)
 
+/*
+ * main
  */
 
 int main(void)
