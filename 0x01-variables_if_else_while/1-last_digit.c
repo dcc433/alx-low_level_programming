@@ -2,7 +2,9 @@
 #include <time.h>
 #include <stdlib.h>
 
-/* maiain - Prints a text according to number*/
+/*_
+ *  main - Prints a text according to number
+ */
 
 int main(void)
 
